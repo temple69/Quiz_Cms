@@ -2,7 +2,7 @@
 An on-hold  Project. A quiz Cms platform where users can create their own quizzes and take them after creation
 ## Features
 *   Create Quiz
-*   Edit Quiz Question After adding quiz
+*   Add Quiz Question After adding quiz
 *   Add Quiz Options and Delete Options
 
 ## Languages and Technologies Used
