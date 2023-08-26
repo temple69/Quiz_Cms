@@ -1,5 +1,5 @@
 # Quiz_Cms
-An on-hold  Project. A quiz Cms platform where users can create their own quizzes and take them after creation
+An on-hold  Project. A quiz Cms platform where users can create their own quizzes and take them after insertion
 ## Features
 *   Create Quiz
 *   Add Quiz Question After adding the quiz
